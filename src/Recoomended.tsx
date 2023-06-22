@@ -41,7 +41,8 @@ export default function Recommended({ data }: any) {
 }
 
 const RecommendedContainer = styled.div`
-  margin: 1em;
+margin: 0;
+padding: 0;
 
   & h2 {
     font-weight: 300;

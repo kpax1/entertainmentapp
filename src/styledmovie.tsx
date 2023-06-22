@@ -79,7 +79,7 @@ export default StyledMovie;
 
 const StyledImagetamplate = styled.div`
 width: 160px;
-margin: auto;
+margin-left: auto;
 `
 const Photodiv = styled.div`
   position: relative;

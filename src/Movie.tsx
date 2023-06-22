@@ -61,4 +61,5 @@ export default function Movie() {
 export const MovieSection = styled.div`
   display: flex;
   flex-wrap: wrap;
+  width: 90%;
 `;

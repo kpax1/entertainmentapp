@@ -96,7 +96,8 @@ const Globalstyle = createGlobalStyle`
     background-color: #10141E;
     font-family: 'Outfit', sans-serif;
     color: white;
-    width: 100%;
+    max-width: 100vw;
+    height: 100vh;
 
   }
 `;

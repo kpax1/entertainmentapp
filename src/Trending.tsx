@@ -41,7 +41,7 @@ const Trendingsector = styled.div`
   margin-top: 1rem;
   color: white;
   margin-left: 16px !important;
-  width: 100%;
+  max-width: 100%;
   & h2 {
     font-weight: 300;
     font-size: 20px;
