@@ -41,14 +41,18 @@ export default function Recommended({ data }: any) {
 }
 
 const RecommendedContainer = styled.div`
-margin: 0;
-padding: 0;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
 
   & h2 {
     font-weight: 300;
     font-size: 20px;
     line-height: 25.2px;
     letter-spacing: -0.31;
+    align-self: start;
+    margin: 1rem;
   }
 
 
